@@ -1,4 +1,4 @@
 learncthehardway
 ================
 
-my process through LearnCTheHardWay.org
+my progress through LearnCTheHardWay.org
